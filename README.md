@@ -15,3 +15,26 @@
 <br>
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/varsharaj16/varsharaj16/gh-pages/github-contribution-grid-snake.svg)
+
+<br>
+
+<div align="center">
+
+```text
+┌──[ varsha@devspace ]─[ ~/profile ]
+└─$ whoami
+
+Computer Science Engineer
+AI • FULL STACK
+
+┌──[ current_focus ]
+└─$ cat focus.txt
+
+Building intelligent products.
+Learning by shipping.
+Turning ideas into real-world systems.
+
+┌──[ status ]
+└─$ echo $STATUS
+
+BUILD • LEARN • CREATE
