@@ -21,28 +21,19 @@
 
 <td width="50%" valign="top">
 
+<img
+  src="https://raw.githubusercontent.com/varsharaj16/varsharaj16/main/assets/projects/securesphere.svg"
+  width="100%"
+  alt="SecureSphere">
+
+<br>
+
 <p>
-  <sub>01 • PRIVACY • ENCRYPTED COLLABORATION</sub><br>
-  <sub>● LIVE</sub>
-</p>
-
-<h2>SECURESPHERE</h2>
-
 <b>Privacy-Preserving Intelligent Collaboration Platform</b>
+</p>
 
 <p>
 End-to-end encrypted collaboration with secure file sharing, encrypted chat, searchable encryption and client-side intelligence.
-</p>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/varsharaj16/varsharaj16/main/assets/projects/securesphere.svg"
-    width="100%"
-    alt="SecureSphere encryption architecture">
-</p>
-
-<p>
-<b>E2E</b> &nbsp; encrypted collaboration
 </p>
 
 <sub>React Native · Expo · TypeScript · PostgreSQL · Drizzle</sub>
@@ -51,32 +42,19 @@ End-to-end encrypted collaboration with secure file sharing, encrypted chat, sea
 
 <td width="50%" valign="top">
 
+<img
+  src="https://raw.githubusercontent.com/varsharaj16/varsharaj16/main/assets/projects/smartpantry.svg"
+  width="100%"
+  alt="Smart Pantry">
+
+<br>
+
 <p>
-  <sub>02 • KITCHEN INVENTORY • HANDS-FREE</sub><br>
-  <sub>● LIVE</sub>
-</p>
-
-<h2>SMART PANTRY</h2>
-
 <b>Smart Pantry</b>
+</p>
 
 <p>
 Grocery management platform tracking pantry inventory, expiration dates and consumption patterns to reduce household food waste.
-</p>
-
-<p>
-Voice-based grocery entry with structured quantities and categories, plus a community marketplace for surplus food.
-</p>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/varsharaj16/varsharaj16/main/assets/projects/smartpantry.svg"
-    width="100%"
-    alt="Smart Pantry inventory flow">
-</p>
-
-<p>
-<b>VOICE</b> &nbsp; hands-free inventory
 </p>
 
 <sub>React · TypeScript · Tailwind CSS · Supabase · Vercel</sub>
@@ -87,35 +65,28 @@ Voice-based grocery entry with structured quantities and categories, plus a comm
 
 <tr>
 
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
+
+<img
+  src="https://raw.githubusercontent.com/varsharaj16/varsharaj16/main/assets/projects/emo.svg"
+  width="100%"
+  alt="Emotion-Based Music Recommendation">
+
+<br>
 
 <p>
-  <sub>03 • NLP • RECOMMENDATION</sub><br>
-  <sub>● PROJECT</sub>
-</p>
-
-<h2>EMOTION-BASED MUSIC</h2>
-
 <b>Emotion-Based Music Recommendation</b>
+</p>
 
 <p>
 Detects emotional sentiment from user input and recommends music using a Python-based recommendation pipeline.
 </p>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/varsharaj16/varsharaj16/main/assets/projects/emo.svg"
-    width="100%"
-    alt="Emotion to music recommendation flow">
-</p>
-
-<p>
-<b>NLP</b> &nbsp; emotion → music
-</p>
-
 <sub>Python · Flask · Pandas · TextBlob</sub>
 
 </td>
+
+</tr>
 </table>
 
 <br>
