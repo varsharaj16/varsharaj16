@@ -1,7 +1,12 @@
+<p align="center">
+  <img src="./assets/dino.svg" width="100%" alt="Varsha Raj">
+</p>
 
 <p align="center">
   Computer Science Engineer • AI • FULL STACK
 </p>
+
+<br>
 
 <h2 align="center">⚡ PROJECT ARCHIVE</h2>
 
@@ -9,13 +14,15 @@
   <code>varsha@devspace:~$ ls ~/projects</code>
 </p>
 
+<br>
+
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
 <p>
-  <sub>CASE 01 • PRIVACY • ENCRYPTED COLLABORATION</sub><br>
+  <sub>01 • PRIVACY • ENCRYPTED COLLABORATION</sub><br>
   <sub>● LIVE</sub>
 </p>
 
@@ -27,7 +34,12 @@
 End-to-end encrypted collaboration with secure file sharing, encrypted chat, searchable encryption and client-side intelligence.
 </p>
 
-<img src="./assets/projects/securesphere.svg" width="100%" alt="SecureSphere encryption architecture">
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/varsharaj16/varsharaj16/main/assets/projects/securesphere.svg"
+    width="100%"
+    alt="SecureSphere encryption architecture">
+</p>
 
 <p>
 <b>E2E</b> &nbsp; encrypted collaboration
@@ -40,7 +52,7 @@ End-to-end encrypted collaboration with secure file sharing, encrypted chat, sea
 <td width="50%" valign="top">
 
 <p>
-  <sub>CASE 02 • KITCHEN INVENTORY • HANDS-FREE</sub><br>
+  <sub>02 • KITCHEN INVENTORY • HANDS-FREE</sub><br>
   <sub>● LIVE</sub>
 </p>
 
@@ -56,7 +68,12 @@ Grocery management platform tracking pantry inventory, expiration dates and cons
 Voice-based grocery entry with structured quantities and categories, plus a community marketplace for surplus food.
 </p>
 
-<img src="./assets/projects/smartpantry.svg" width="100%" alt="Smart Pantry inventory flow">
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/varsharaj16/varsharaj16/main/assets/projects/smartpantry.svg"
+    width="100%"
+    alt="Smart Pantry inventory flow">
+</p>
 
 <p>
 <b>VOICE</b> &nbsp; hands-free inventory
@@ -73,7 +90,7 @@ Voice-based grocery entry with structured quantities and categories, plus a comm
 <td width="50%" valign="top">
 
 <p>
-  <sub>CASE 03 • NLP • RECOMMENDATION</sub><br>
+  <sub>03 • NLP • RECOMMENDATION</sub><br>
   <sub>● PROJECT</sub>
 </p>
 
@@ -85,7 +102,12 @@ Voice-based grocery entry with structured quantities and categories, plus a comm
 Detects emotional sentiment from user input and recommends music using a Python-based recommendation pipeline.
 </p>
 
-<img src="./assets/projects/emo.svg" width="100%" alt="Emotion to music recommendation flow">
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/varsharaj16/varsharaj16/main/assets/projects/emo.svg"
+    width="100%"
+    alt="Emotion to music recommendation flow">
+</p>
 
 <p>
 <b>NLP</b> &nbsp; emotion → music
@@ -95,9 +117,35 @@ Detects emotional sentiment from user input and recommends music using a Python-
 
 </td>
 
+<td width="50%" valign="top">
+
+<p>
+  <sub>BUILDING • LEARNING • CREATING</sub>
+</p>
+
+<h2>WHAT'S NEXT</h2>
+
+<b>Ideas → Systems → Impact</b>
+
+<p>
+Exploring intelligent products, full-stack systems and practical AI applications.
+</p>
+
+<br>
+
+<p>
+<b>∞</b> &nbsp; always building
+</p>
+
+<sub>AI · Full Stack · Open Source</sub>
+
+</td>
+
 </tr>
 </table>
+
 <br>
+
 <h2 align="center">🐍 CONTRIBUTION ARCHIVE</h2>
 
 <p align="center">
