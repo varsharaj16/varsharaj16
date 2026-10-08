@@ -116,13 +116,6 @@ Detects emotional sentiment from user input and recommends music using a Python-
 <sub>Python · Flask · Pandas · TextBlob</sub>
 
 </td>
-
-<td width="50%" valign="top">
-
-<p>
-  <sub>BUILDING • LEARNING • CREATING</sub>
-</p>
-
 </table>
 
 <br>
