@@ -130,60 +130,8 @@ Detects emotional sentiment from user input and recommends music using a Python-
 
 </td>
 
-<td width="50%" valign="top">
-
-<p>
-  <sub>CASE 04 • EXPERIMENTS • IN PROGRESS</sub><br>
-  <sub>● BUILDING</sub>
-</p>
-
-<h2>MORE INCOMING</h2>
-
-<b>Building • Learning • Creating</b>
-
-<p>
-New experiments and full-stack systems are continuously being explored and shipped.
-</p>
-
-<br>
-
-<p>
-<b>∞</b> &nbsp; next idea loading
-</p>
-
-<sub>AI · Full Stack · Open Source</sub>
-
-</td>
-
 </tr>
 </table>
-
-<br>
-
-<h2 align="center">⚙️ TECH STACK</h2>
-
-<p align="center">
-  <code>varsha@devspace:~$ cat skills.txt</code>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,html,css,react,nextjs,nodejs,flask,postgres,mysql,git,github,docker,aws,supabase,vscode&perline=10" alt="Tech stack">
-</p>
-
-<div align="center">
-
-```text
-┌──[ skills ]
-├── Languages → Java • Python • C++ • JavaScript • TypeScript
-├── Frontend  → React • Next.js • HTML • CSS
-├── Backend   → Node.js • Flask
-├── Database  → PostgreSQL • MySQL
-├── Cloud     → AWS • Supabase
-└── Tools     → Git • GitHub • Docker • VS Code
-```
-
-</div>
-
 <br>
 
 <h2 align="center">🐍 CONTRIBUTION ARCHIVE</h2>
