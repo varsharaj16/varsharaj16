@@ -134,19 +134,19 @@ Detects emotional sentiment from user input and recommends music using a Python-
 
   <a href="https://github.com/varsharaj16">
     <img
-      src="https://img.shields.io/badge/GitHub-varsharaj16-181717?style=flat-square&logo=github"
+      src="https://img.shields.io/badge/GitHub-varsharaj16-181717?"
       alt="GitHub">
   </a>
 
   <a href="https://www.linkedin.com/in/varsharaj07/">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Varsha%20Raj-0A66C2?style=flat-square&logo=linkedin"
+      src="https://img.shields.io/badge/LinkedIn-Varsha%20Raj-0A66C2?"
       alt="LinkedIn">
   </a>
 
   <a href="mailto:varshar@kssem.edu.in">
     <img
-      src="https://img.shields.io/badge/Email-varshar%40kssem.edu.in-EA4335?style=flat-square&logo=gmail"
+      src="https://img.shields.io/badge/Email-varshar%40kssem.edu.in-EA4335?"
       alt="Email">
   </a>
 
