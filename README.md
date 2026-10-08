@@ -123,25 +123,6 @@ Detects emotional sentiment from user input and recommends music using a Python-
   <sub>BUILDING • LEARNING • CREATING</sub>
 </p>
 
-<h2>WHAT'S NEXT</h2>
-
-<b>Ideas → Systems → Impact</b>
-
-<p>
-Exploring intelligent products, full-stack systems and practical AI applications.
-</p>
-
-<br>
-
-<p>
-<b>∞</b> &nbsp; always building
-</p>
-
-<sub>AI · Full Stack · Open Source</sub>
-
-</td>
-
-</tr>
 </table>
 
 <br>
