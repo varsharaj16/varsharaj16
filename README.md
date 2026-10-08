@@ -10,11 +10,6 @@
 
 <p align="center">
   Computer Science Engineer • AI • FULL STACK
-</p>
-
 <br>
 <p align="center">
-
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/varsharaj16/varsharaj16/gh-pages/github-contribution-grid-snake.svg)
-
-</p>
