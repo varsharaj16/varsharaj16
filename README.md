@@ -19,7 +19,15 @@
 <br>
 
 <div align="center">
+<br>
 
+<h2 align="center">⚡ PROJECT ARCHIVE</h2>
+
+<p align="center">
+  <code>varsha@devspace:~$ ls ~/projects</code>
+</p>
+
+<br>
 ```text
 ┌──[ varsha@devspace ]─[ ~/profile ]
 └─$ whoami
