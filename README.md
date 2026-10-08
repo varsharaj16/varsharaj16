@@ -1,48 +1,45 @@
-<p align="center">
-  <img src="./assets/dino.svg" width="100%" alt="Varsha Raj">
-</p>
+╭─────────────────────────────────────────╮
 
-<br>
+              🎀 VARSHA RAJ 🎀
 
-<p align="center">
-  <code>varsha@devspace:~$ whoami</code>
-</p>
+       Computer Science Engineer
+               Full Stack 
 
-<p align="center">
-  Computer Science Engineer • AI • FULL STACK
-</p>
+              🌸 ✨ 🦋 ✨ 🌸
 
-<br>
+╰─────────────────────────────────────────╯
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/varsharaj16/varsharaj16/gh-pages/github-contribution-grid-snake.svg)
 
-<br>
+          🌷 ABOUT ME
 
-<div align="center">
-<br>
+     👩🏻‍💻 CSE Student
+     🤖 AI Enthusiast
+     💻 Full Stack Developer
 
-<h2 align="center">⚡ PROJECT ARCHIVE</h2>
 
-<p align="center">
-  <code>varsha@devspace:~$ ls ~/projects</code>
-</p>
+          🎀 TECH STACK
 
-<br>
-```text
-┌──[ varsha@devspace ]─[ ~/profile ]
-└─$ whoami
+     Python • Java • React
+     Flask • SQL • Git
+     JavaScript • etc.
 
-Computer Science Engineer
-AI • FULL STACK
 
-┌──[ current_focus ]
-└─$ cat focus.txt
+          🌸 FEATURED PROJECTS
 
-Building intelligent products.
-Learning by shipping.
-Turning ideas into real-world systems.
+     🔐 SecureSphere
+     🥫 SmartPantry
+     🎵 Emotion-Based Music Recommendation System
 
-┌──[ status ]
-└─$ echo $STATUS
 
-BUILD • LEARN • CREATE
+          🦋 MY GITHUB GARDEN
+
+            [ SNAKE ]
+
+
+          ✨ GITHUB STATS
+
+
+          🌷 CERTIFICATIONS
+
+
+          💌 LET'S CONNECT
