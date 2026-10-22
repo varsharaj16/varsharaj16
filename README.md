@@ -44,7 +44,7 @@ Grocery management platform tracking pantry inventory, expiration dates and cons
 <tr>
 <td colspan="2" valign="top" align="center">
 
-<img src="./assets/cute/card-emo.png" width="60%" alt="Emotion-Based Music Recommendation">
+<img src="./assets/cute/card-emo.png" width="48%" alt="Emotion-Based Music Recommendation">
 
 **Emotion-Based Music Recommendation**
 
@@ -79,27 +79,6 @@ Detects emotional sentiment from user input and recommends music using a Python-
   <img src="https://img.shields.io/badge/PostgreSQL-ece6fb?style=flat-square&logo=postgresql&logoColor=7a5cc2" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Vercel-ece6fb?style=flat-square&logo=vercel&logoColor=7a5cc2" alt="Vercel">
   <img src="https://img.shields.io/badge/AWS-ece6fb?style=flat-square&logo=amazonwebservices&logoColor=7a5cc2" alt="AWS">
-</p>
-
-<br>
-
-<h2 align="center">✿ my scrapbook portfolio ✿</h2>
-
-<p align="center">
-  <a href="https://varsha-r.vercel.app">
-    <img src="./assets/cute/portfolio-preview.jpg" width="85%" alt="Preview of varsha-r.vercel.app: a scrapbook collage with torn pink paper, polaroids, Snoopy, a minion and dinos">
-  </a>
-  <br>
-  <sub>torn paper, polaroids, a song on repeat & stickers you can drag around — <a href="https://varsha-r.vercel.app">come say hi ↗</a></sub>
-</p>
-
-<br>
-
-<h2 align="center">🏅 little wins</h2>
-
-<p align="center">
-  ☁️ AWS Academy Graduate — Cloud Foundations &nbsp;·&nbsp; ☁️ AWS Academy Graduate — Cloud Developing<br>
-  🤖 Artificial Intelligence — IBM SkillsBuild &nbsp;·&nbsp; 💡 IEEE Student Committee (2025)
 </p>
 
 <br>
