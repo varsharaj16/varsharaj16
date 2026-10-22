@@ -83,10 +83,10 @@ Detects emotional sentiment from user input and recommends music using a Python-
 
 <br>
 
-<h2 align="center">🐍 contribution garden</h2>
+<h2 align="center">🦖 contribution run</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/varsharaj16/varsharaj16/gh-pages/github-contribution-grid-snake-pink.svg" width="95%" alt="A pink snake eating my GitHub contribution grid">
+  <img src="https://raw.githubusercontent.com/varsharaj16/varsharaj16/gh-pages/dino-run.svg" width="95%" alt="A pixel dino running under my pink contribution grid, jumping over cacti on my busiest weeks">
 </p>
 
 <br>
